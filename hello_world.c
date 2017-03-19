@@ -13,3 +13,4 @@ int main() {
 //add line 3
 //add line 4
 >>>>>>> feature-A
+//feature-B
